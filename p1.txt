@@ -1,2 +1,4 @@
 cost
 price
+all purches items
+total price
